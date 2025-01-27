@@ -1,1 +1,0 @@
-# RedHatTraining-DO101
